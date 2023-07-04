@@ -1,0 +1,1 @@
+# The project aims to develop a smart chatbot using Natural Language Processing (NLP) techniques in Java, with a particular focus on utilizing the Open NLP library. The chatbot has been designed to understand and respond to user queries in a conversational manner, providing accurate and contextually relevant information.
